@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
-This file implements our first tensorflow projectt
-CS540 Spring 2020
+first tensorflow projectt
 @Author: Shaan Gagneja
 @Email: sgagneja@wisc.edu
 """
